@@ -1,6 +1,6 @@
-### Hi there 👋, Emil Medzhidov
+### Emil Medzhidov
 #### Software Engineering, Machine Learning
-![Software Engineering, Machine Learning](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Engineering, Machine Learning]
 
 My name is Emil and I am a first year Engineering student at UCL. I code as a part of my future career and my key interests are in Software Engineering and Machine Learning.
 
