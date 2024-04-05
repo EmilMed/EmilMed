@@ -1,5 +1,5 @@
-### Emil Medzhidov
-#### Software Engineering, Machine Learning
+## Emil Medzhidov
+### Software Engineering, Machine Learning
 
 My name is Emil and I am a first year Engineering student at UCL. I code as a part of my future career and my key interests are in Software Engineering and Machine Learning.
 
