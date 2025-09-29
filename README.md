@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm currently a student at **University College London (UCL)**, pursuing my Engineering degree and focusing on **Software Engineering, Data Science, and Machine Learning** as a part of my future career. My passion lies in leveraging technology to solve complex problems and building impactful solutions through code.
 
-##👨🏻‍💻 About Me
+## 👨🏻‍💻 About Me
 
 -  **Education**: Studying at University College London (UCL)
 -  **Languages**: Python, MATLAB, SQL, Javascript, Typescript 🐍
